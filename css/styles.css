@@ -20,9 +20,9 @@ p {
 	padding: 10px;
 }
 
-section {
-	border:	1px solid black;
-	background-color: grey;
+article {
+	border:	2px solid black;
+	background-color: #999999;
 	width: 100%;
   height: 200px;
 	position: relative;
@@ -30,43 +30,49 @@ section {
 }
 
 #chi {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-size: 125%;
+  font: bold;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: pink;
+	background-color: #d59898;
   border-right: 0px;
+  border-top: 0px;
 }
 
 #bee {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-size: 125%;
+  font: bold;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: red;
+	background-color: #c14543;
 	color: white;
   border-right: 0px;
+  border-top: 0px;
 }
 
 #sus {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-size: 125%;
+  font: bold;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: yellow;
+	background-color: #e5d198;
 	padding: 5px;
   border-right: 0px;
+  border-top: 0px;
 }
 
 .row {
